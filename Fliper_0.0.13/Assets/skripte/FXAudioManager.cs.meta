@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac3fbf5aeaa17fa4ea8ea8fa51b1d240
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FXaudioSource: {instanceID: 0}
+  - choochoo: {fileID: 8300000, guid: 9d3d6fca4e86361448ff7a7ec74cc6ff, type: 3}
+  - gunCock: {fileID: 8300000, guid: 9d3d6fca4e86361448ff7a7ec74cc6ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

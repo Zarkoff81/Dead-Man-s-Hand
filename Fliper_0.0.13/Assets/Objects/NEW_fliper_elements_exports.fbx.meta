@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 05cb2c60fa03d0643817981787fc44c9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder.001
+    100002: desno_zid1
+    100004: fliper_left
+    100006: fliper_right
+    100008: fliper_right_small
+    100010: gljiva
+    100012: gljiva.001
+    100014: gljiva.002
+    100016: kugla
+    100018: //RootNode
+    100020: "odbija\u010D_desni"
+    100022: "odbija\u010D_lijevi"
+    100024: Plane
+    100026: Plane.004
+    100028: planina
+    100030: rampa_lijeva
+    100032: rampa_stanga1
+    100034: rampa_stanga_2
+    100036: ranpa_desna
+    100038: saloon
+    100040: saloon.773
+    100042: vodilica_left
+    100044: vodilica_right
+    400000: Cylinder.001
+    400002: desno_zid1
+    400004: fliper_left
+    400006: fliper_right
+    400008: fliper_right_small
+    400010: gljiva
+    400012: gljiva.001
+    400014: gljiva.002
+    400016: kugla
+    400018: //RootNode
+    400020: "odbija\u010D_desni"
+    400022: "odbija\u010D_lijevi"
+    400024: Plane
+    400026: Plane.004
+    400028: planina
+    400030: rampa_lijeva
+    400032: rampa_stanga1
+    400034: rampa_stanga_2
+    400036: ranpa_desna
+    400038: saloon
+    400040: saloon.773
+    400042: vodilica_left
+    400044: vodilica_right
+    2100000: No Name
+    2300000: Cylinder.001
+    2300002: desno_zid1
+    2300004: fliper_left
+    2300006: fliper_right
+    2300008: fliper_right_small
+    2300010: gljiva
+    2300012: gljiva.001
+    2300014: gljiva.002
+    2300016: kugla
+    2300018: "odbija\u010D_desni"
+    2300020: "odbija\u010D_lijevi"
+    2300022: Plane
+    2300024: Plane.004
+    2300026: planina
+    2300028: rampa_lijeva
+    2300030: rampa_stanga1
+    2300032: rampa_stanga_2
+    2300034: ranpa_desna
+    2300036: saloon
+    2300038: saloon.773
+    2300040: vodilica_left
+    2300042: vodilica_right
+    3300000: Cylinder.001
+    3300002: desno_zid1
+    3300004: fliper_left
+    3300006: fliper_right
+    3300008: fliper_right_small
+    3300010: gljiva
+    3300012: gljiva.001
+    3300014: gljiva.002
+    3300016: kugla
+    3300018: "odbija\u010D_desni"
+    3300020: "odbija\u010D_lijevi"
+    3300022: Plane
+    3300024: Plane.004
+    3300026: planina
+    3300028: rampa_lijeva
+    3300030: rampa_stanga1
+    3300032: rampa_stanga_2
+    3300034: ranpa_desna
+    3300036: saloon
+    3300038: saloon.773
+    3300040: vodilica_left
+    3300042: vodilica_right
+    4300000: rampa_stanga_2
+    4300002: rampa_stanga1
+    4300004: Plane.004
+    4300006: rampa_lijeva
+    4300008: Cylinder.001
+    4300010: desno_zid1
+    4300012: fliper_right_small
+    4300014: ranpa_desna
+    4300016: "odbija\u010D_lijevi"
+    4300018: planina
+    4300020: gljiva.002
+    4300022: gljiva.001
+    4300024: kugla
+    4300026: Plane
+    4300028: gljiva
+    4300030: vodilica_left
+    4300032: vodilica_right
+    4300034: "odbija\u010D_desni"
+    4300036: fliper_left
+    4300038: fliper_right
+    4300040: saloon.773
+    4300042: saloon
+    6400000: Cylinder.001
+    6400002: desno_zid1
+    6400004: fliper_left
+    6400006: fliper_right
+    6400008: fliper_right_small
+    6400010: gljiva
+    6400012: gljiva.001
+    6400014: gljiva.002
+    6400016: kugla
+    6400018: "odbija\u010D_desni"
+    6400020: "odbija\u010D_lijevi"
+    6400022: Plane
+    6400024: Plane.004
+    6400026: planina
+    6400028: rampa_lijeva
+    6400030: rampa_stanga1
+    6400032: rampa_stanga_2
+    6400034: ranpa_desna
+    6400036: saloon
+    6400038: saloon.773
+    6400040: vodilica_left
+    6400042: vodilica_right
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

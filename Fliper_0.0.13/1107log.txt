@@ -1,0 +1,9 @@
+11.7.2019.
+
+fliper changelog
+
+1. Napravio AudioManager skriptu na GameManager objektu - ona ce primarno služiti kao database clipova i player i dodao AudioSource
+2. disableao sve AudioSourceove na bumperima
+3. Napravio AudioBall skriptu na Ball prefabu - ona ce triggerirati clipove iz glavnog AudioSourcea, a neke i sama svirati sa Aux AudioSourcea
+4. Napravio AudioMixer s 4 grupe
+5. izeditirao nesto zvukova tek da isprobam triggering i playback sistem
